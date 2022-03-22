@@ -26,6 +26,11 @@ const routes = [
       name: 'linchuang',
       component:() => import('../view/linchuang.vue')
    },
+   {
+      path:'/BiopharmaServices',
+      name: 'BiopharmaServices',
+      component:() => import('../view/BiopharmaServices.vue')
+   },
 ]
 
 

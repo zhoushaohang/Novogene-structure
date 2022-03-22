@@ -28,7 +28,7 @@
                         </template>
                         <a-menu-item key="1"><router-link to="/biaoguan">研究服务</router-link></a-menu-item>
                         <a-menu-item key="2"><router-link to="/linchuang">临床诊断</router-link></a-menu-item>
-                        <a-menu-item key="3">生物制药</a-menu-item>
+                        <a-menu-item key="3"><router-link to="/BiopharmaServices"></router-link> 生物制药</a-menu-item>
                         <a-menu-item key="4">服务支持</a-menu-item>
                     </a-sub-menu>
                     <a-sub-menu key="sub2">
