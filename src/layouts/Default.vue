@@ -8,7 +8,7 @@
         mode="horizontal"
         :style="{ lineHeight: '64px' }"
       >
-        <h1 class="name">Novogene网站逻辑图</h1>
+        <h1 class="name">Novogene</h1>
       </a-menu>
     </a-layout-header>
     <a-layout>
